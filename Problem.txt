@@ -1,0 +1,5 @@
+The Problem:
+Write a program that calculates and displays miles per gallon for a list of 10 cars. The data for 
+each car consists of initial odometer reading, final odometer reading, and number of gallons of 
+gas. The result of each calculation should be stored to an array. Display the summary of miles per 
+gallon of all the cars.
